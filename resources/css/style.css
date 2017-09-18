@@ -23,5 +23,7 @@ h2{
 a:hover,a:visited,a:link{
   text-decoration: none;
   color: aquamarine;
-
+}
+p{
+  color: white;
 }
