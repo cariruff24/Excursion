@@ -25,6 +25,7 @@ a:hover,a:visited,a:link{
   color: aquamarine;
 }
 p{
-  color: white;
+  color: gray;
    font-size: 21px;
+   font-family: Verdana;
 }
